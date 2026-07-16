@@ -1,0 +1,129 @@
+{
+  "name": "Vibrant Pro Analytics",
+  "dataColors": [
+    "#2563EB",
+    "#DC2626",
+    "#16A34A",
+    "#EA580C",
+    "#9333EA",
+    "#0891B2",
+    "#CA8A04",
+    "#DB2777"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB",
+  "good": "#16A34A",
+  "neutral": "#EA580C",
+  "bad": "#DC2626",
+  "maximum": "#2563EB",
+  "center": "#EA580C",
+  "minimum": "#DC2626",
+  "null": "#CA8A04",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#1E3A8A"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#0F172A"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#2563EB"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 42,
+      "color": "#1E3A8A"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0,
+            "show": true
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#2563EB"
+              }
+            },
+            "show": true,
+            "radius": 8
+          }
+        ],
+        "visualHeader": [
+          {
+            "foreground": {
+              "solid": {
+                "color": "#1E3A8A"
+              }
+            },
+            "background": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "show": true,
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0,
+            "show": true
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#2563EB"
+              }
+            },
+            "fontSize": 12
+          }
+        ],
+        "calloutValue": [
+          {
+            "color": {
+              "solid": {
+                "color": "#0F172A"
+              }
+            },
+            "fontSize": 36,
+            "fontFace": "Segoe UI Semibold"
+          }
+        ]
+      }
+    }
+  }
+}
