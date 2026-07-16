@@ -1,72 +1,258 @@
-# Learn Power BI In Arabic
-Zanoon Lab YouTube Channel<br/>
-Power BI Training<br/>
+# 📊 Power BI Mastery - Professional Learning Portfolio
 
-- Power BI Playlist:  https://bit.ly/3AAAgCM
-- YouTube Channel: https://www.youtube.com/@ZanoonLab
-- Facebook Group: https://www.facebook.com/groups/zanoonlab
-- Facebook Page: https://www.facebook.com/zanoonlab
-- Telegram Group: https://t.me/PowerBIInArabic
-- Email: zanoon.lab@gmail.com
-- Agenda: https://bit.ly/3BWZ4o4
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen.svg)](README.md)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Latest-yellow.svg)](https://powerbi.microsoft.com)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2024-informational.svg)](README.md)
 
-### Lessons: (click on any lesson to watch it on Youtube)
-- [Lesson #001 - Introduction](https://youtu.be/P_Nr0FMyn9w)
-- [Lesson #002 - Brief on Business Intelligence](https://youtu.be/PIkg4itGFGg)
-- [Lesson #003 - Microsoft Power Platform](https://youtu.be/Q5Z7yx_oOPc)
-- [Lesson #004 - What & Why Power BI?](https://youtu.be/sCbifot0yUI)
-- [Lesson #005 - Gartner & Forrester | Independent Research Firms](https://youtu.be/MTCW3kLSiqs)
-- [Lesson #006 - Power BI Products](https://youtu.be/-j52W-BlHyI)
-- [Lesson #007 - Power BI Desktop | Free](https://youtu.be/nz9PK3rqJ5U)
-- [Lesson #008 - Power BI Connectivity Modes](https://youtu.be/GinvtS0yMYk)
-- [Lesson #009 - Download and Install Power BI Desktop | Free](https://youtu.be/q6yADBBHUHM)
-- [Lesson #010 - Demo #01 | Web Page | Import Mode](https://youtu.be/RLwYOgEUrmQ)
-- [Lesson #011 - Demo #02 | Flat Files (CSV) | Import Mode](https://youtu.be/imo62t3xJpA)
-- [Lesson #012 - Demo #03 | Flat File (Excel) | Import Mode](https://youtu.be/GEqpVwzFWq4)
-- [Lesson #013 - Demo #04 | Database (SQL Server) | Import Mode](https://youtu.be/nNLy0MIn_Jw)
-- [Lesson #014 - Demo #05 | Database (SQL Server) | DirectQuery Mode](https://youtu.be/i_R6ClQtzZ0)
-- [Lesson #015 - Brief on Dimensional Modeling | Why Star Schema is Important?](https://youtu.be/mTYsJkuzrr8)
-- [Lesson #016 - Demo #06 | Flat File to Data Model | Single Table to Star Schema](https://youtu.be/kcivtpyExEk)
-- [Lesson #017 - Demo #07 | Database Tables to Data Model | ER Mode to Star Schema](https://youtu.be/Yv1Ic0rPXN0)
-- [Lesson #018 - Demo #08 | SSAS & AAS | Live Mode | Analysis Service From Scratch](https://youtu.be/_qvSFe5e9RM)
-- [Lesson #019 - Power BI Service](https://youtu.be/GO-n_i7E-Yk)
-- [Lesson #020 - Demo #09 | Power BI Service | Create Free Account](https://youtu.be/z4ElaywUr80)
-- [Lesson #021 - Demo #10 | Power BI Service | Publish Reports | Use Reports](https://youtu.be/Z5U2xY9LdJ0)
-- [Lesson #022 - Demo #11 | Power BI Service | On-premises Data Gateway | Refresh](https://youtu.be/7Dy5fcchvP4)
-- [Lesson #023 - Demo #12 | Power BI Service | Access & Share](https://youtu.be/Z6c16gXe2kc)
-- [Lesson #024 - Demo #13 | Power BI Service | Create Free Account | novyPro](https://youtu.be/LO-UZ6RMbJU)
-- [Lesson #025 - Demo #14 | Power BI Dataset | Live Mode | Shared Dataset](https://youtu.be/u0A5OhZPUsU)
-- [Lesson #026 - Demo #15 | Power BI Service | Row-Level Security | RLS](https://youtu.be/9XzJ-EC8K_g)
-- [Lesson #027 - Demo #16 | Power BI Service | Dataflows](https://youtu.be/X8H5R2DbBLQ)
-- [Lesson #028 - Demo #17 | Power BI Service | Datasets](https://youtu.be/G48frTf9Zxw)
-- [Lesson #029 - Demo #18 | Power BI Service | Datamarts](https://youtu.be/t8fEPwYI_Og)
-- [Lesson #030 - Demo #19 | Power Query | Transform Data | Excel & PDF & Web Page](https://youtu.be/R14AHF0mvrc)
-- [Lesson #031 - Demo #20 | Power BI Service | Paginated Reports](https://youtu.be/JDG5JKJHBT8)
-- [Lesson #032 - Demo #21 | Power BI Service | Dashboards](https://youtu.be/WeZ0alqP1RU)
-- [Lesson #033 - Demo #22 | Power BI Service | Apps](https://youtu.be/tLcRvsCFq70)
-- [Lesson #034 - Demo #23 | Power BI Service | Scorecards & Metrics](https://youtu.be/nny4vATvoPU)
-- [Lesson #035 - Demo #24 | Power BI Service | Streaming Datasets](https://youtu.be/Kfknij2RUUs)
-- [Lesson #036 - Demo #25 | Power BI Service | Streaming Dataflows](https://youtu.be/V2AScL9hqII)
-- [Lesson #037 - Demo #26 | Power BI Service | Deployment Pipelines](https://youtu.be/UdoQyXoRbzc)
-- [Lesson #038 - Power BI Report Server](https://youtu.be/tP_muSzEIdg)
-- [Lesson #039 - Power BI Service vs. Power BI Report Server](https://youtu.be/-21RoaDfELc)
-- [Lesson #040 - Demo #27 | Power BI Report Server | Download & Install & Configure](https://youtu.be/CJegu5-G7po)
-- [Lesson #041-1 - Demo #28 | API (Facebook Graph API) | Import Mode | Part #1](https://youtu.be/-SSjlSnqREo)
-- [Lesson #041-2 - Demo #28 | API (Facebook Graph API) | Import Mode | Part #2](https://youtu.be/btABANc_i9M)
-- [Lesson #042 - Demo #29 | Power BI Report Server | Publish Reports | Use Reports](https://youtu.be/lDAXOk4FiJQ)
-- [Lesson #043 - Demo #30 | Power BI Report Server | Scheduled Refresh](https://youtu.be/fdlv4vLdseA)
-- [Lesson #044 - Demo #31 | Power BI Report Server | Access & Share](https://youtu.be/vve3HeFJPVk)
-- [Lesson #045 - Demo #32 | Power BI Report Server | Row-Level Security | RLS](https://youtu.be/3ZvmIccZFXo)
-- [Lesson #046 - Demo #33 | Power BI Report Server | Paginated Reports](https://youtu.be/DRDvCBih7uo)
-- [Lesson #047 - Demo #34 | Power BI Report Server | Data Sources](https://youtu.be/y6DcFgEYatU)
-- [Lesson #048 - Demo #35 | Power BI Report Server | Datasets](https://youtu.be/BnfjzJrpvic)
-- [Lesson #049 - Demo #36 | Power BI Report Server | KPIs](https://youtu.be/pcCGfwXsGjc)
-- [Lesson #050 - Power BI Embedded](https://youtu.be/774LPo8NJlY)
-- [Lesson #051 - Demo #37 | Power BI Embedded | No Or Low Code](https://youtu.be/bT81WGXzGQ0)
-- [Lesson #052 - Power BI Mobile](https://youtu.be/Lexf7BCry54)
-- [Lesson #053 - Demo #38 | Power BI Mobile | Mobile Layout](https://youtu.be/eqXnVBWMyxc)
-- [Lesson #054 - Demo #39 | Power BI Buttons](https://youtu.be/q5BnP-dGPD8)
-- [Lesson #055 - Demo #40 | Power BI Bookmarks](https://youtu.be/S6F4hdJe6wA)
-- [Lesson #056 - Demo #41 | Power BI Parameters](https://youtu.be/crZgRZWf9tw)
-- [Lesson #057 - Demo #42 | Power BI Analytics Pane](https://youtu.be/Lb1EmYQ1DOM)
-- [Lesson #058 - Demo #43 | Forecasting | Linear Regression | Decomposition Method](https://youtu.be/1voxG6_EezM)
+> A comprehensive, hands-on learning portfolio showcasing practical Power BI implementations, data modeling expertise, and professional dashboard design through systematic project development and continuous skill advancement.
+
+---
+
+## 📌 Executive Summary
+
+This repository represents a structured approach to **mastering Microsoft Power BI** through rigorous, project-based learning. Rather than passive consumption of tutorials, each lesson is actively rebuilt from scratch, experimented with, and documented as a portfolio-quality project. This methodology ensures deep understanding of core concepts including data modeling, DAX calculations, Power Query transformations, and professional visualization design.
+
+---
+
+## 🎯 Learning Objectives
+
+- ✅ **Master Data Modeling** - Build efficient, scalable data architectures
+- ✅ **Advanced DAX** - Create sophisticated calculations and complex measures
+- ✅ **Power Query Expertise** - Transform and prepare data for analytics
+- ✅ **Professional Design** - Develop business-ready dashboards and reports
+- ✅ **Real-World Application** - Implement industry best practices
+- ✅ **Portfolio Development** - Build a collection of production-grade projects
+- ✅ **Continuous Growth** - Track progress and expand analytical capabilities
+
+---
+
+## 🏗️ Repository Architecture
+
+Each project folder is self-contained and organized for clarity and scalability:
+
+```
+Learn-Power-BI/
+├── 📁 Demo-01-Sales-Dashboard/
+│   ├── Project.pbix              # Complete Power BI project file
+│   ├── Dashboard.png             # Final dashboard screenshot
+│   ├── DataSet.csv               # Raw data source
+│   └── NOTES.md                  # Implementation details & learnings
+│
+├── 📁 Demo-02-Data-Modeling/
+│   ├── Project.pbix
+│   ├── Dashboard.png
+│   ├── DataSet.xlsx
+│   └── NOTES.md
+│
+└── 📁 [Additional Projects...]
+```
+
+### Project Components
+
+| File | Purpose |
+|------|---------|
+| `.pbix` | Complete Power BI project file (ready to open) |
+| `.png` | Dashboard visualization snapshot |
+| `DataSet` | Raw data files (CSV/Excel) |
+| `NOTES.md` | Key learnings, DAX formulas, and implementation approach |
+
+---
+
+## 🚀 Learning Methodology
+
+This repository follows a **structured, hands-on learning cycle**:
+
+```
+Watch Lesson
+    ↓
+Rebuild Project (No Copying)
+    ↓
+Experiment & Iterate
+    ↓
+Document Learnings
+    ↓
+Commit & Portfolio
+```
+
+### Step-by-Step Workflow
+
+1. **🎬 Active Consumption** - Carefully study the original tutorial
+2. **🏗️ Independent Reconstruction** - Build the entire project from scratch without referencing the demo
+3. **🔬 Experimentation** - Enhance the project with additional features and custom implementations
+4. **📝 Documentation** - Capture key insights, formulas, and technical decisions
+5. **💾 Version Control** - Commit work to GitHub with descriptive commit messages
+6. **📈 Portfolio Review** - Assess progress and plan next learning objectives
+
+---
+
+## 🛠️ Technical Stack
+
+| Technology | Application |
+|------------|-------------|
+| **Power BI Desktop** | Primary analytics & visualization tool |
+| **Power Query** | Data transformation & ETL processes |
+| **DAX** | Advanced calculations & measure logic |
+| **Data Modeling** | Relationship architecture & optimization |
+| **Excel** | Data preparation & supplementary analysis |
+| **CSV/Database** | Data source formats |
+
+---
+
+## 📚 Learning Content
+
+### Curriculum Overview
+
+- **Foundational Concepts** - UI navigation, basic charts, simple measures
+- **Data Transformation** - Power Query techniques, ETL workflows
+- **Data Modeling** - Relationships, cardinality, star schemas
+- **Advanced DAX** - Complex measures, calculated columns, context transitions
+- **Dashboard Design** - UX principles, interactivity, professional aesthetics
+- **Performance Optimization** - Query optimization, DAX efficiency
+
+### Progress Tracking
+
+| # | Project | Status | Skills Covered |
+|---|---------|--------|----------------|
+| 01 | Sales Dashboard | ✅ Complete | Basic visuals, simple measures |
+| 02 | Data Modeling Fundamentals | ✅ Complete | Relationships, cardinality |
+| 03 | Advanced DAX | 🔄 In Progress | Complex calculations, context |
+| 04 | Interactive Dashboard | 📋 Planned | Slicers, drill-through, bookmarks |
+
+---
+
+## 🎓 Original Course Attribution
+
+This learning journey is built upon the excellent tutorial series by **Mohamed Zanoon**, a respected Power BI educator in the Arabic learning community.
+
+### 📚 Original Learning Resources
+
+- **GitHub Repository:** [Learn-Power-BI-In-Arabic](https://github.com/MohamedZanoon/Learn-Power-BI-In-Arabic)
+- **YouTube Playlist:** [Power BI Tutorials by Mohamed Zanoon](https://youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63)
+
+### Acknowledgments
+
+- 🙏 Educational framework and core concepts by Mohamed Zanoon
+- 📖 Complete tutorial series available in the original repository
+- 🎬 Video lessons available on YouTube
+- 🎯 This repository documents my personal learning implementation and practice
+
+---
+
+## ⚠️ Important Disclaimer
+
+- **Original Work**: All educational content and course structure credit belongs to Mohamed Zanoon
+- **Personal Portfolio**: This repository contains my own implementations, experiments, and documented learning progress
+- **Not a Replacement**: This is intended as supplementary learning material, not a replacement for the original course
+- **For Learning Only**: All projects are created for educational purposes and personal skill development
+
+**If you're interested in the original course materials, please visit the original repository.**
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Microsoft Power BI Desktop (Free or Pro version)
+- Basic understanding of data analysis concepts
+- Familiarity with Excel or database concepts
+- Commitment to hands-on learning
+
+### Installation
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/yourusername/Learn-Power-BI.git
+   cd Learn-Power-BI
+   ```
+
+2. **Open a project**
+   - Navigate to any `Demo-XX` folder
+   - Open the `.pbix` file with Power BI Desktop
+   - Review the `NOTES.md` file for implementation details
+
+3. **Explore the data**
+   - Check the data model in the "Model" view
+   - Review DAX formulas in the formula bar
+   - Examine Power Query transformations
+
+4. **Practice independently**
+   - Use the provided dataset
+   - Recreate the dashboard from scratch
+   - Add your own custom measures and visualizations
+
+---
+
+## 📊 Key Features
+
+✨ **Project-Based Learning** - Learn through building real dashboards  
+✨ **Documented Code** - Every DAX formula and Power Query step explained  
+✨ **Best Practices** - Industry-standard data modeling and design patterns  
+✨ **Progressive Complexity** - Build skills from fundamentals to advanced topics  
+✨ **Portfolio Quality** - Each project is production-ready  
+✨ **Active Maintenance** - Continuously updated with new lessons  
+
+---
+
+## 💡 Why This Approach?
+
+### Problem with Passive Learning
+- Tutorials can feel complete but understanding remains surface-level
+- Without practice, skills fade quickly
+- No portfolio evidence of mastery
+
+### Our Solution
+- **Active Reconstruction** - Rebuild everything from scratch
+- **Experimentation** - Push beyond the tutorial scope
+- **Documentation** - Reinforce learning through writing
+- **Portfolio Building** - Create tangible evidence of expertise
+- **Deliberate Practice** - Continuous skill refinement
+
+---
+
+## 📈 What You'll Master
+
+By completing these projects, you'll develop expertise in:
+
+- 📊 **Dashboard Design** - Create professional, user-centric visualizations
+- 🔗 **Data Modeling** - Build optimized, scalable data architectures
+- 📐 **DAX Programming** - Write powerful, efficient calculations
+- 🔄 **ETL Processes** - Transform raw data into analytics-ready formats
+- 📉 **Business Intelligence** - Translate data into actionable insights
+- 🎨 **UX/UI** - Design intuitive, interactive reports
+
+---
+
+## 🤝 Contributing
+
+This is a personal learning repository, but feedback is welcome!
+
+- Found an optimization? Open an issue
+- Suggestion for improvement? Create a discussion
+- Alternative approach? Share your ideas
+
+---
+
+## 📞 Contact & Resources
+
+- 💬 **Questions?** Open an issue in this repository
+- 📚 **Original Repository** [Mohamed Zanoon's Learn-Power-BI-In-Arabic](https://github.com/MohamedZanoon/Learn-Power-BI-In-Arabic)
+- 🎬 **Video Tutorials** [YouTube Playlist - Power BI by Mohamed Zanoon](https://youtube.com/playlist?list=PL69umUTzySPGWMxnmhX9SV5PIEbdnHv63)
+- 📖 **Power BI Docs** [Microsoft Power BI Documentation](https://learn.microsoft.com/power-bi/)
+- 🎓 **DAX Reference** [DAX Functions](https://learn.microsoft.com/en-us/dax/dax-function-reference)
+
+---
+
+
+
+<div align="center">
+
+
+**[⭐ Star this repo](https://github.com/yourusername/Learn-Power-BI) if you find it helpful!**
+
+---
+
+*"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."* — Brian Herbert
+
+</div>
