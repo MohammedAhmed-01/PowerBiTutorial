@@ -1,9 +1,5 @@
 # 📊 Power BI Mastery - Professional Learning Portfolio
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen.svg)](README.md)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Latest-yellow.svg)](https://powerbi.microsoft.com)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2024-informational.svg)](README.md)
 
 > A comprehensive, hands-on learning portfolio showcasing practical Power BI implementations, data modeling expertise, and professional dashboard design through systematic project development and continuous skill advancement.
 
