@@ -106,14 +106,6 @@ Commit & Portfolio
 - **Dashboard Design** - UX principles, interactivity, professional aesthetics
 - **Performance Optimization** - Query optimization, DAX efficiency
 
-### Progress Tracking
-
-| # | Project | Status | Skills Covered |
-|---|---------|--------|----------------|
-| 01 | Sales Dashboard | ✅ Complete | Basic visuals, simple measures |
-| 02 | Data Modeling Fundamentals | ✅ Complete | Relationships, cardinality |
-| 03 | Advanced DAX | 🔄 In Progress | Complex calculations, context |
-| 04 | Interactive Dashboard | 📋 Planned | Slicers, drill-through, bookmarks |
 
 ---
 
